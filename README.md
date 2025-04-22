@@ -1,4 +1,4 @@
-# 🧢 Pokedex App
+# 🧢 Pokedex 
 
 Aplicación web creada con React que permite consultar información sobre distintos Pokémon utilizando la PokéAPI.
 
